@@ -5,8 +5,7 @@
 
 I successfully installed Gitpod but decided to go with local alternative - Visual Studio Code and Git on my PC - Windows 11
 
-I followed the documentation provided by AWS here- <a AWS CLI Installation on WIndows="https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html"></a>.
-**Note to insert image here**
+I followed the documentation provided by AWS link --> [AWS CLI Installation on WIndows]("https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html")
 
 Downloaded the installer - msi and executed it.
 **Note to insert image here**
