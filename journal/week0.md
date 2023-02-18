@@ -12,3 +12,10 @@ Downloaded the installer - msi and executed it.
 
 After the installation I configured it using my IAM user's credentials in order to be able to establish connection with AWS.
 ![Configuring AWS CLI](assets/aws_cli_configuration.png)
+
+### Create a Billing Alarm
+
+I created a bidget with $20 limit. This is the maximum amount that I can afford to spend if something goes wrong 🤞
+Hope this one is enough.
+
+![Image of the budget alarm](assets/aws_budget.png)
