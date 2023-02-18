@@ -8,6 +8,7 @@ I successfully installed Gitpod but decided to go with local alternative - Visua
 I followed the documentation provided by AWS link --> [AWS CLI Installation on WIndows](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
 Downloaded the installer - msi and executed it.
-**Note to insert image here**
+![Installing AWS CLI](assets/aws_cli_installation.png)
 
 After the installation I configured it using my IAM user's credentials in order to be able to establish connection with AWS.
+![Configuring AWS CLI](assets/aws_cli_configuration.png)
