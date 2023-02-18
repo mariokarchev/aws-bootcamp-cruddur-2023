@@ -19,3 +19,11 @@ I created a bidget with $20 limit. This is the maximum amount that I can afford 
 Hope this one is enough.
 
 ![Image of the budget alarm](assets/aws_budget.png)
+
+### Recreate Logical Architecture design
+
+I have recreated the logical diagram.
+
+![Cruddur Logical Design](assets/logical_diagram.png)
+
+You can find the in here --> [Lucid Chart Share Link](https://lucid.app/lucidchart/9b3bd4b1-c3fc-46b6-8471-213e6844d7fe/edit?viewport_loc=-507%2C-45%2C3012%2C1464%2C0_0&invitationId=inv_7cfbfc11-ffd5-48f3-aa92-c51a264dc4b8)
