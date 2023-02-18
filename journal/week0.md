@@ -20,6 +20,13 @@ Hope this one is enough.
 
 ![Image of the budget alarm](assets/aws_budget.png)
 
+### Conceptual Diagram in Lucid Charts
+
+Here you can find the conceptiual diagram I created in Lucid Chart
+
+![Conceptual Diagram Lucid chart link](https://lucid.app/lucidchart/5feaa35b-0116-41a5-9cee-25c5432e2194/edit?viewport_loc=-267%2C-79%2C2219%2C1079%2C0_0&invitationId=inv_5b8f0ae1-16a5-49cd-9874-de8d35fb42d0)
+
+
 ### Recreate Logical Architecture design
 
 I have recreated the logical diagram.
